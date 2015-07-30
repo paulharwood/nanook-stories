@@ -17,7 +17,7 @@
         "autoplay": "",
         "controls": "controls"
       },
-      "title": "Visiting Times_2”,
+      "title": "Visiting Times",
       "copy": [
         "Prison Image Presents",
         "Stories from prisoners and their families"
@@ -49,25 +49,6 @@
       "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/15_video_loop_THUMB.jpg",
       "caption": "",
       "order": 2
-    },
-    {
-      "class": "backgroundVideo",
-      "backgroundVideo": {
-        "source": "video_loop_5",
-        "autoplay": "",
-        "controls": "controls",
-        "loop": "loop"
-      },
-      "title": "Prison visits are vital lifelines",
-      "copy": [
-        "It is widely accepted that maintaining family ties reduces a prisoner’s risk of self-harm and suicide",
-        "And it reduces the risk of reoffending by 39 per cent",
-        "Prison visits are vital lifelines for prisoners as well as relatives, who also suffer the feelings of isolation and loneliness associated with imprisonment"
-      ],
-      "time": 14000,
-      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/5_video_loop_THUMB.jpg",
-      "caption": "",
-      "order": 3
     },
     {
       "class": "backgroundImage",
@@ -131,20 +112,21 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_6",
+        "source": "video_loop_5",
         "autoplay": "",
         "controls": "controls",
         "loop": "loop"
       },
-      "title": "Carl is fortunate to recieve family visits",
+      "title": "Prison visits are vital lifelines",
       "copy": [
-        "Carl is fortunate to receive visits from Joanne and the children",
-        "Around 45 per cent of people in prison say they have lost contact with their family since incarceration"
+        "It is widely accepted that maintaining family ties reduces a prisoner’s risk of self-harm and suicide",
+        "And it reduces the risk of reoffending by 39 per cent",
+        "Prison visits are vital lifelines for prisoners as well as relatives, who also suffer the feelings of isolation and loneliness associated with imprisonment"
       ],
       "time": 14000,
-      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/6_video_loop_THUMB.jpg",
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/5_video_loop_THUMB.jpg",
       "caption": "",
-      "order": 8
+      "order": 3
     },
     {
       "class": "slideShow",
@@ -170,6 +152,24 @@
       "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/02-Carl+Jo-Visits.jpg",
       "caption": "",
       "order": 9
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_6",
+        "autoplay": "",
+        "controls": "controls",
+        "loop": "loop"
+      },
+      "title": "Carl is fortunate to recieve family visits",
+      "copy": [
+        "Carl is fortunate to receive visits from Joanne and the children",
+        "Around 45 per cent of people in prison say they have lost contact with their family since incarceration"
+      ],
+      "time": 14000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/6_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 8
     },
     {
       "class": "video",
