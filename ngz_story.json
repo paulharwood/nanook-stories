@@ -1,0 +1,803 @@
+{
+  "modelVersion": 2,
+  "chapters": [
+    {
+      "title": "Text",
+      "order": 1,
+      "frames": [
+        "id"
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "class": "titleFrame",
+      "backgroundVideo": {
+        "source": "video_loop_18",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Visiting Times",
+      "copy": [
+        "Prison Image Presents",
+        "Stories from prisoners and their families"
+      ],
+      "author": "Prison image",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/18_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 1
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_15",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Introduction",
+      "copy": [
+        "A sentence to imprisonment is the harshest form of punishment that can be handed out by the courts in England and Wales",
+        "It should only be given in the most extreme cases and for the most severe of crimes ",
+        "However, there are currently around 85,000 people in prison in England and Wales",
+        "For the majority of those imprisoned, there are a number of family members whose lives are also radically affected",
+        "These families have their own unique challenges to face",
+        "It can be a confusing, painful and terrifying experience, with huge practical obstacles to overcome",
+        "Visiting Times tells the stories of three families who found themselves in this situation"
+      ],
+      "time": 21000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/15_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 2
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_5",
+        "autoplay": "",
+        "controls": "controls",
+        "loop": "loop"
+      },
+      "title": "Prison visits are vital lifelines",
+      "copy": [
+        "It is widely accepted that maintaining family ties reduces a prisoner’s risk of self-harm and suicide",
+        "And it reduces the risk of reoffending by 39 per cent",
+        "Prison visits are vital lifelines for prisoners as well as relatives, who also suffer the feelings of isolation and loneliness associated with imprisonment"
+      ],
+      "time": 14000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/5_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 3
+    },
+    {
+      "class": "backgroundImage",
+      "backgroundImage": {
+        "source": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/11-13-HMP-Portland-8908.jpg"
+      },
+      "title": "Joanne & Carl",
+      "copy": "Joanne & Carl",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/01-Carl+Joanne.jpg",
+      "caption": "",
+      "order": 4
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "joanne_carl_story_part1",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Carl's arrest",
+      "time": 151200,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/joanne_and_carl_1_THUMB.jpg",
+      "caption": "",
+      "order": 5
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_7",
+        "autoplay": "",
+        "controls": "controls",
+        "loop": "loop"
+      },
+      "title": "It feels like they have just disappeared",
+      "copy": [
+        "The terrible anxiety that Joanne faced when Carl was arrested is not uncommon",
+        "Sometimes it is not until they hear from the police that families know what has happened to their loved one",
+        "Until then it can feel like they have just disappeared",
+        "At the police station the arrested person usually has the right to have someone informed of their whereabouts",
+        "If they are an adult the police are not obliged to disclose any details about the arrest, which can be incredibly distressing for families like Joanne’s"
+      ],
+      "time": 14000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/7_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 6
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "joanne_carl_story_part2",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Joanne visits Carl in prison",
+      "time": 187200,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/joanne_and_carl_2_THUMB.jpg",
+      "caption": "",
+      "order": 7
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_6",
+        "autoplay": "",
+        "controls": "controls",
+        "loop": "loop"
+      },
+      "title": "Carl is fortunate to recieve family visits",
+      "copy": [
+        "Carl is fortunate to receive visits from Joanne and the children",
+        "Around 45 per cent of people in prison say they have lost contact with their family since incarceration"
+      ],
+      "time": 14000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/6_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 8
+    },
+    {
+      "class": "slideShow",
+      "slideShow": {
+        "images": [
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/01-3326.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/02-8898.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/03-0319.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/04-0362.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/05-0370.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/06-0376.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/07-0385.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/08-0407.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/09-0419.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/10-0810.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/11-8908.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/01-jo-carl-visit/12-0841.jpg"
+        ],
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshow_audio/01-jo-carl-visit.m4a"
+      },
+      "title": "Carl's visit",
+      "time": 30000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/02-Carl+Jo-Visits.jpg",
+      "caption": "",
+      "order": 9
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "joanne_carl_story_part3",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "How Carl's family is affected",
+      "time": 60000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/joanne_and_carl_3_THUMB.jpg",
+      "caption": "",
+      "order": 10
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_2",
+        "autoplay": "",
+        "controls": "controls",
+        "loop": "loop"
+      },
+      "title": "The consequences for children",
+      "copy": [
+        "Inmates’ children are the innocent victims of the prison system, often bearing the consequences of their parents’ behaviour",
+        "Approximately 200,000 children are separated from an incarcerated parent each year",
+        "They are three times more likely to suffer mental health problems, develop anti-social behaviour and go on to offend themselves",
+        "This risk is especially high among older children over the age of 11 "
+      ],
+      "time": 14000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/2_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 11
+    },
+    {
+      "class": "panorama",
+      "panorama": {
+        "cover": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/07-13-HMP-Portland-0385.jpg",
+        "url": "13-HMP-Portland-1271-Panorama000",
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/360_audio/carls-cell-360-audio.mp3"
+      },
+      "title": "Virtual tour of Carl’s prison cell",
+      "time": 21000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/Carl-Cell-thumb.jpg",
+      "caption": "",
+      "order": 12
+    },
+    {
+      "class": "panorama",
+      "panorama": {
+        "cover": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/07-13-HMP-Portland-0385.jpg",
+        "url": "13-HMP-Portland-1287-Panorama000",
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/360_audio/beaufort-wing-360-audio.mp3"
+      },
+      "title": "Virtual tour of Carl's prison corridor, HMP Portland",
+      "time": 21000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/Beaufort-corridor-thumb.jpg",
+      "caption": "",
+      "order": 13
+    },
+    {
+      "class": "slideShow",
+      "slideShow": {
+        "images": [
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/01-6392.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/02-8661.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/03-8834.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/04-8592.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/05-8589.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/06-6664.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/07-8631.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/08-7249.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/09-8628.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/10-6717.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/11-8670.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/12-7156.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/13-6700.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/02-beaufort-wing/14-6344.jpg"
+        ],
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshow_audio/02-beaufort-wing.m4a"
+      },
+      "title": "Life on Carl's prison wing",
+      "time": 21000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/03-Beaufort-Wing.jpg",
+      "caption": "",
+      "order": 14
+    },
+    {
+      "class": "backgroundImage",
+      "backgroundImage": {
+        "source": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/04-13-HMP-Portland-7469.jpg"
+      },
+      "title": "Sam & Steve",
+      "copy": [
+        "Sam & Steve"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/04-Steve+Sam.jpg",
+      "caption": "",
+      "order": 15
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "sam_and_steve_part1",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Steve's arrest",
+      "time": 21000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/sam_and_steve_1_THUMB.jpg",
+      "caption": "",
+      "order": 16
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_9",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Families of prisoners face new practical challenges",
+      "copy": [
+        "For some families it is a relief when someone who has been difficult to live with is sent to prison",
+        "For others it can be incredibly hard to adapt",
+        "Families of prisoners are faced with new practical challenges",
+        "Sam suddenly had to look after five children, take on Steve’s business and support Steve himself",
+        "Often when a family loses someone to prison, it can mean they lose their breadwinner, their home or a parent to their children"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/9_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 17
+    },
+    {
+      "class": "slideShow",
+      "slideShow": {
+        "images": [
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/03-steve-induction/01-8954.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/03-steve-induction/02-6680.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/03-steve-induction/03-6684.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/03-steve-induction/04-7036.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/03-steve-induction/05-8720.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/03-steve-induction/06-6646.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/03-steve-induction/07-7220.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/03-steve-induction/08-7407.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/03-steve-induction/09-8760.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/03-steve-induction/10-8552.jpg"
+        ],
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshow_audio/03-steve-induction.m4a"
+      },
+      "title": "Steve in HMP Portland",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/05-Induction+Steve.jpg",
+      "caption": "",
+      "order": 18
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_10",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Relatives of people in prison can be flooded by feelings of grief",
+      "copy": [
+        "The way Sam grieved for Steve is not unusual",
+        "Relatives of people in prison can be flooded by the same stages of grief as people who have been bereaved",
+        "The first stage is shock and disbelief, then comes the acute pain of loss",
+        "The third wave is anger – at the person inside, at the circumstances, sometimes at themselves",
+        "Finally a gradual recovery begins and the person starts coping with everyday life again",
+        "But even this is hard, because life is so different, and they know that it will change yet again when the relative is eventually released"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/01-14-HMP-Portland-1427thumb.jpg",
+      "caption": "",
+      "order": 19
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "sam_and_steve_part2",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Steve's sentencing hearing",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/sam_and_steve_2_THUMB.jpg",
+      "caption": "",
+      "order": 20
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_3",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "When an offender is sentenced the family isn’t always told where they will be sent to",
+      "copy": [
+        "When an offender is sentenced to jail, the family isn’t always told which prison they will be sent to",
+        "Prisoners are allowed to make one free phone call when they first arrive in prison",
+        "But the process is often delayed by bureaucracy or by simply having to wait for their turn to use the phone",
+        "Sometimes it can be days before families find out where in the country their relative has been sent"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/01-14-HMP-Portland-1427thumb.jpg",
+      "caption": "",
+      "order": 21
+    },
+    {
+      "class": "panorama",
+      "panorama": {
+        "cover": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/07-13-HMP-Portland-0385.jpg",
+        "url": "14-Benbow-Panorama000",
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/360_audio/benbow-wing-360-audio.mp3"
+      },
+      "title": "Virtual tour of a prison wing, HMP Portland",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/Drake-Wing-thumb.jpg",
+      "caption": "",
+      "order": 24
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "sam_and_steve_part3",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Sam visiting Steve",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/sam_and_steve_4_THUMB.jpg",
+      "caption": "",
+      "order": 22
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_1",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Preparing children for a visit is another huge challenge ",
+      "copy": [
+        "Being able to visit a parent in prison can help children adapt after the trauma of what feels like losing a parent",
+        "Preparing children for a visit and knowing what to tell them is another huge challenge that parents like Sam face",
+        "Visits themselves can be a exhausting, stressful experience for all involved",
+        "Families say intrusive searches, long waits and the use of drug dogs can make them feel like criminals too",
+        "In some prisons physical contact is discouraged, which means children cannot hug their parent, play with them or even sit in their lap ",
+        "When asked, prisoners often say they do not wish their families, and in particualr their children, to go through such a traumatic experience "
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/01-14-HMP-Portland-1427thumb.jpg",
+      "caption": "",
+      "order": 23
+    },
+    {
+      "class": "panorama",
+      "panorama": {
+        "cover": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/07-13-HMP-Portland-0385.jpg",
+        "url": "14-HMP-Portland-1874-Panorama000",
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/360_audio/main-yard-360-audio.mp3"
+      },
+      "title": "Virtual tour of the main prison yard, HMP Portland",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/Drake-Wing-thumb.jpg",
+      "caption": "",
+      "order": 15
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "sam_and_steve_part4",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Coping with the prison sentence",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/sam_and_steve_4_THUMB.jpg",
+      "caption": "",
+      "order": 22
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_13",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "There is no legal limit to how far away a prisoner can be sent from home",
+      "copy": [
+        "Although visits are tiring for Sam, at least Steve is being held locally",
+        "There is no legal limit to how far away a prisoner can be sent from home, so they could be held anywhere in the country",
+        "Government funding towards the cost of visiting a prisoner is available only to close relatives who are already on benefits or a low income",
+        "This can mean that regular visits, or any visits at all, are just not possible for some families due to the distances they have to travel"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/01-14-HMP-Portland-1427thumb.jpg",
+      "caption": "",
+      "order": 23
+    },
+    {
+      "class": "slideShow",
+      "slideShow": {
+        "images": [
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/04-steve-out/01-1369.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/04-steve-out/02-3397.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/04-steve-out/03-1447.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/04-steve-out/04-0019.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/04-steve-out/05-3387.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/04-steve-out/06-3397.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/04-steve-out/07-3433.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/04-steve-out/08-3477.jpg"
+        ],
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshow_audio/04-steve-out.m4a"
+      },
+      "title": "Steve leaving prison",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/06-Steve-Out.jpg",
+      "caption": "",
+      "order": 25
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_17",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Family ties hugely increases the chances of staying out of trouble",
+      "copy": [
+        "Research shows that when an ex-offender leaves prison, having family ties, job prospects and a home to go to hugely increases their chances of staying out of trouble with the law",
+        "Sadly this is not always the case.",
+        "Prisoners have usually not only lost their jobs but have criminal records that make getting another one extremely difficult",
+        "Their homes may have been taken away and their children may have been put into care",
+        "For those who do have families to go to, it is not just them but their children, partners, grandparents and extended family who have to deal with the social stigma associated with an ex-offender "
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/01-14-HMP-Portland-1427thumb.jpg",
+      "caption": "",
+      "order": 23
+    },
+    {
+      "class": "backgroundImage",
+      "backgroundImage": {
+        "source": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/08-14-HMP-Portland-3838.jpg"
+      },
+      "title": "Gemma & Wayne",
+      "copy": [
+        "<h1>Gemma & Wayne</h1>"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/08-14-HMP-Portland-3838thumb.jpg",
+      "caption": "",
+      "order": 6
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "gemma_and_wayne_1",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Wayne gets arrested",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/gemma_and_wayne_1_THUMB.jpg",
+      "caption": "",
+      "order": 22
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_4",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Wayne’s story of drug use is a common theme among inmates",
+      "copy": [
+        "Wayne’s story of drug use is a common theme among inmates",
+        "Over half of those behind bars report committing offences connected to their drug taking",
+        "Drug use and intoxication can impair judgment, resulting in poor anger management and criminal behaviour",
+        "Like Wayne, people introduced to drugs as children can struggle to grow out of the habit as adults",
+        "Unfortunately a prison sentence does not necessarily mean an escape from drugs",
+        "Almost a third of inmates admit that drugs are easy to get in prison and of those that have used heroin a fifth said they first tried it inside"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/01-14-HMP-Portland-1427thumb.jpg",
+      "caption": "",
+      "order": 23
+    },
+    {
+      "class": "panorama",
+      "panorama": {
+        "cover": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/07-13-HMP-Portland-0385.jpg",
+        "url": "14-Wayne-cell-Panorama000",
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/360_audio/waynes-cell-360-audio.mp3"
+      },
+      "title": "Virtual tour of Wayne’s prison cell, HMP Portland",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/Wayne-Cell-thumb.jpg",
+      "caption": "",
+      "order": 15
+    },
+    {
+      "class": "slideShow",
+      "slideShow": {
+        "images": [
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/05-waynes-wing/01-1903.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/05-waynes-wing/02-2227.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/05-waynes-wing/03-2242.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/05-waynes-wing/04-2199.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/05-waynes-wing/05-2216.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/05-waynes-wing/06-2031.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/05-waynes-wing/07-2142.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/05-waynes-wing/08-2146.jpg"
+        ],
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshow_audio/05-waynes-wing.m4a"
+      },
+      "title": "Wayne on his wing, HMP Portland",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/08-Wayne-Wing.jpg",
+      "caption": "",
+      "order": 23
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "gemma_and_wayne_2",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "It's like I'm doing a prison sentence too",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/gemma_and_wayne_2_THUMB.jpg",
+      "caption": "",
+      "order": 22
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_16",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Many relatives of prisoners may have had nothing to do with the law before",
+      "copy": [
+        "Like Gemma and Sam, many relatives of prisoners may have had nothing to do with the law before  ",
+        "They can find themselves completely ostracised from friends and even family who don’t understand why they have chosen to stay with their arrested partner",
+        "Already separated from their imprisoned relative, they can find themselves cut off from parents, siblings, and friends",
+        "Even with support, it can feel incredibly isolating when no one else is able to relate to their experience"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/16_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 22
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "gemma_and_wayne_3",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Gemma visiting Wayne",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/gemma_and_wayne_3_THUMB.jpg",
+      "caption": "",
+      "order": 24
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_16",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "The system does not make it particularly easy for families to keep up communication",
+      "copy": [
+        "The system does not make it particularly easy for families to keep up communication with those behind the prison walls, despite evidence of its enormous benefits",
+        "Apart from one free letter a week, prisoners must pay for all other letters and phone calls",
+        "Payphones are usually in corridors and can only be accessed at certain times of the day so there is often a queue and little privacy",
+        "Almost all phone calls and letters can be listened in on or read",
+        "For many, letter writing becomes the main form of communication ",
+        "Some inmates have stamped addressed envelopes posted to them, but others, whose families can’t afford to, are not so lucky",
+        "In some prisons stamps are even traded like currency",
+        "Perhaps it’s not surprising that nearly half of all prisoners lose contact with their family whilst inside"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/16_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 25
+    },
+    {
+      "class": "slideShow",
+      "slideShow": {
+        "images": [
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/06-wayne-gemma/01-3751.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/06-wayne-gemma/02-3762.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/06-wayne-gemma/03-3782.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/06-wayne-gemma/04-3816.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/06-wayne-gemma/05-2016.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/06-wayne-gemma/06-2010.jpg",
+          "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshows/06-wayne-gemma/07-3836.jpg"
+        ],
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/slideshow_audio/06-wayne-gemma.m4a"
+      },
+      "title": "Gemma & Wayne.",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/09-Wayne+Gemma.jpg",
+      "caption": "",
+      "order": 23
+    },
+    {
+      "class": "panorama",
+      "panorama": {
+        "cover": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/07-13-HMP-Portland-0385.jpg",
+        "url": "14-HMP-Portland-Drake-Panorama000",
+        "audio": "https://static.nanook.tv/channels/prisonimage/hmpuk/360_audio/drake-wing-360-audio.mp3"
+      },
+      "title": "Virtual tour of Wayne's wing wing, HMP Portland",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/Drake-Wing-thumb.jpg",
+      "caption": "",
+      "order": 15
+    },
+    {
+      "class": "video",
+      "video": {
+        "source": "gemma_and_wayne_4",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "It's hard being with a recovering addict",
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/gemma_and_wayne_3_THUMB.jpg",
+      "caption": "",
+      "order": 24
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_16",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Treatment for drug addiction is extremely effective in reducing reoffending",
+      "copy": [
+        "Research shows that certain types of treatment for drug addiction are extremely effective in reducing reoffending",
+        "Such programmes help improve the lives of the prisoner, their family and the communities into which they are released",
+        "But access to suitable treatment programmes is compromised by staff shortages, availability of funding and prisoners being transferred between different prisons"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/16_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 25
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_16",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Imprisonment is the most extreme punsihment an individual can face",
+      "copy": [
+        "Ultimatley, imprisonment is the most extreme punsihment an individual can face",
+        "It is clear that in many ways this punishment is also inflicted on the families of those who are in prison",
+        "England and Wales has the highest rate of incarceration in Western Europe ",
+        "But putting someone in prison is expensive and not very effective at reducing reoffending",
+        "46 per cent of adult prisoners are reconvicted within one year of release",
+        "All the research, experience and anecdotal evidence shows that maintaining family contact is extremely effective at reducing this reoffending rate",
+        "It also helps families stay together, allows children to maintain a relationship with their imprisoned parent, and improves outcomes all round",
+        "It benefits not just the prisoners and their families but prison staff and society as a whole",
+        "Visits are undeniably important and arguably should be key to the rehabilitaion of all offenders wherever appropriate"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/16_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 25
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_16",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Credits",
+      "copy": [
+        "Credits"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/16_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 25
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_16",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "References",
+      "copy": [
+        "References"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/16_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 25
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_16",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Links to support organisations",
+      "copy": [
+        "Useful links and support organisations"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/16_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 25
+    }
+  ]
+}
