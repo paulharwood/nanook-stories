@@ -31,7 +31,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_15",
+        "source": "video_loop_14",
         "autoplay": "",
         "controls": "controls"
       },
@@ -39,7 +39,22 @@
       "copy": [
         "A sentence to imprisonment is the harshest form of punishment that can be handed out by the courts in England and Wales",
         "It should only be given in the most extreme cases and for the most severe of crimes ",
-        "However, there are currently around 85,000 people in prison in England and Wales",
+        "However, there are currently around 85,000 people in prison in England and Wales"
+      ],
+      "time": 21000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/15_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 2
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_15",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Introduction",
+      "copy": [
         "For the majority of those imprisoned, there are a number of family members whose lives are also radically affected",
         "These families have their own unique challenges to face",
         "It can be a confusing, painful and terrifying experience, with huge practical obstacles to overcome",
@@ -78,7 +93,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_7",
+        "source": "video_loop_8",
         "autoplay": "",
         "controls": "controls",
         "loop": "loop"
@@ -156,7 +171,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_6",
+        "source": "video_loop_13",
         "autoplay": "",
         "controls": "controls",
         "loop": "loop"
@@ -187,7 +202,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_2",
+        "source": "video_loop_9",
         "autoplay": "",
         "controls": "controls",
         "loop": "loop"
@@ -287,7 +302,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_9",
+        "source": "video_loop_6",
         "autoplay": "",
         "controls": "controls"
       },
@@ -330,7 +345,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_10",
+        "source": "video_loop_3",
         "autoplay": "",
         "controls": "controls"
       },
@@ -364,7 +379,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_3",
+        "source": "video_loop_11",
         "autoplay": "",
         "controls": "controls"
       },
@@ -409,7 +424,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_1",
+        "source": "video_loop_4",
         "autoplay": "",
         "controls": "controls"
       },
@@ -456,7 +471,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_13",
+        "source": "video_loop_10",
         "autoplay": "",
         "controls": "controls"
       },
@@ -543,7 +558,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_4",
+        "source": "video_loop_7",
         "autoplay": "",
         "controls": "controls"
       },
@@ -643,7 +658,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_16",
+        "source": "video_loop_20",
         "autoplay": "",
         "controls": "controls"
       },
@@ -712,7 +727,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_16",
+        "source": "video_loop_01",
         "autoplay": "",
         "controls": "controls"
       },
@@ -730,7 +745,7 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_16",
+        "source": "video_loop_12",
         "autoplay": "",
         "controls": "controls"
       },
@@ -740,7 +755,22 @@
         "It is clear that in many ways this punishment is also inflicted on the families of those who are in prison",
         "England and Wales has the highest rate of incarceration in Western Europe ",
         "But putting someone in prison is expensive and not very effective at reducing reoffending",
-        "46 per cent of adult prisoners are reconvicted within one year of release",
+        "46 per cent of adult prisoners are reconvicted within one year of release"
+      ],
+      "time": 4000,
+      "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/16_video_loop_THUMB.jpg",
+      "caption": "",
+      "order": 25
+    },
+    {
+      "class": "backgroundVideo",
+      "backgroundVideo": {
+        "source": "video_loop_19",
+        "autoplay": "",
+        "controls": "controls"
+      },
+      "title": "Imprisonment is the most extreme punsihment an individual can face",
+      "copy": [
         "All the research, experience and anecdotal evidence shows that maintaining family contact is extremely effective at reducing this reoffending rate",
         "It also helps families stay together, allows children to maintain a relationship with their imprisoned parent, and improves outcomes all round",
         "It benefits not just the prisoners and their families but prison staff and society as a whole",
@@ -754,13 +784,18 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_16",
+        "source": "video_loop_18",
         "autoplay": "",
         "controls": "controls"
       },
       "title": "Credits",
       "copy": [
-        "Credits"
+        "A Prison Image Production",
+        "Designed and Built by Nanook.tv",
+        "Filmed and Edited by Jason Evans",
+        "Photographed and Edited by Andrew Aitchison",
+        "Words by Victoria Seabrook",
+        "For more information follow us on twitter @prisonimage"
       ],
       "time": 4000,
       "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/16_video_loop_THUMB.jpg",
@@ -770,13 +805,17 @@
     {
       "class": "backgroundVideo",
       "backgroundVideo": {
-        "source": "video_loop_16",
+        "source": "video_loop_14",
         "autoplay": "",
         "controls": "controls"
       },
-      "title": "References",
+      "title": "With thanks to",
       "copy": [
-        "References"
+        "We’d like to say a big ‘Thank You’ to all those involved in the project, especially",
+        "The Monument Trust, without whose support this project would ot have been possible",
+        "Officer Sam Gallie, Family Liaison Officer, HMP / YOI Portland, without her help and guidance we couldn’t have done this",
+        "Number 1 Governor, HMP/YOI Portland, for allowing us the access to make the project",
+        "And to Jo, Carl, Sam, Steve, Gemma, Wayne and their families without whose participation this project would just not have happened"
       ],
       "time": 4000,
       "scrubberUrl": "https://static.nanook.tv/channels/prisonimage/hmpuk/images/thumbs/16_video_loop_THUMB.jpg",
